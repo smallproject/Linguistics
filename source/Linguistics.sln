@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Linguistics", "Linguistics\Linguistics.sqlproj", "{92AD5862-A69B-4A0B-88B4-CE84D9929B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinguisticsMVC", "LinguisticsMVC\LinguisticsMVC.csproj", "{229961EF-5501-4FDE-B97A-07719C4A0F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinguisticsMVC.Tests", "LinguisticsMVC.Tests\LinguisticsMVC.Tests.csproj", "{B770AB07-00BA-469C-A633-B4F4D5FB12BB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://imajenasyon.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Linguistics\\Linguistics.sqlproj
+		SccProjectName1 = Linguistics
+		SccLocalPath1 = Linguistics
+		SccProjectUniqueName2 = LinguisticsMVC.Tests\\LinguisticsMVC.Tests.csproj
+		SccProjectName2 = LinguisticsMVC.Tests
+		SccLocalPath2 = LinguisticsMVC.Tests
+		SccProjectUniqueName3 = LinguisticsMVC\\LinguisticsMVC.csproj
+		SccProjectName3 = LinguisticsMVC
+		SccLocalPath3 = LinguisticsMVC
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AD5862-A69B-4A0B-88B4-CE84D9929B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AD5862-A69B-4A0B-88B4-CE84D9929B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AD5862-A69B-4A0B-88B4-CE84D9929B58}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{92AD5862-A69B-4A0B-88B4-CE84D9929B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AD5862-A69B-4A0B-88B4-CE84D9929B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AD5862-A69B-4A0B-88B4-CE84D9929B58}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{229961EF-5501-4FDE-B97A-07719C4A0F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229961EF-5501-4FDE-B97A-07719C4A0F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229961EF-5501-4FDE-B97A-07719C4A0F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229961EF-5501-4FDE-B97A-07719C4A0F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B770AB07-00BA-469C-A633-B4F4D5FB12BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B770AB07-00BA-469C-A633-B4F4D5FB12BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B770AB07-00BA-469C-A633-B4F4D5FB12BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B770AB07-00BA-469C-A633-B4F4D5FB12BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

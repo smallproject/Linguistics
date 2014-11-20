@@ -1,0 +1,9 @@
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\bin\Debug\Linguistics.dacpac
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\bin\Debug\Linguistics.dll
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\bin\Debug\Linguistics.pdb
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\obj\Debug\Model.xml
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\obj\Debug\refactor.xml
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\obj\Debug\postdeploy.sql
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\obj\Debug\predeploy.sql
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\obj\Debug\Linguistics.dll
+C:\begcsharp\Visual Studio 2013\Web\Linguistics\Linguistics\obj\Debug\Linguistics.pdb
